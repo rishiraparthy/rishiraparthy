@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Rishi Teja
+## Hello there fellow coder 👋!! I'm Rishi Teja
 
 🔍 Currently building: ML systems that detect fraud, predict emergencies, and decode crowd emotions in real time  
 🧠 Deepening my craft in: Generative AI, MLOps, and full-stack deployment of AI apps  
